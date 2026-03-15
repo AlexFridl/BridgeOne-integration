@@ -1,0 +1,3 @@
+{"timestamp":"2026-03-15 20:18:40","type":"INFO","script":"sync_reservations.php","message":"API Authentication Attempt","context":{"endpoint":"\/user\/auth\/login","username":"bebelak@gmail.com"}}
+{"timestamp":"2026-03-15 20:18:41","type":"INFO","script":"sync_reservations.php","message":"API Authentication Successful","context":{"endpoint":"\/user\/auth\/login","status":200,"message":"Authentication successful"}}
+{"timestamp":"2026-03-15 20:18:41","type":"INFO","script":"sync_reservations.php","message":"Sync reservations started","context":[]}

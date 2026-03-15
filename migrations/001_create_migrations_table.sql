@@ -1,0 +1,8 @@
+CREATE TABLE IF NOT EXISTS migrations (
+  id BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+  migration VARCHAR(190) NOT NULL,
+
+  created_at DATETIME NOT NULL DEFAULT CURRENT_TIMESTAMP,
+
+  UNIQUE KEY uq_migrations_migration (migration)
+);
