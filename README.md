@@ -62,6 +62,7 @@ Folder that contains all the SQL migrations (create DB / tables)
 002_create_room_types_table.sql
 003_create_rooms_table.sql
 004_create_available_rooms_table.sql
+005_create_reservations_table.sql
 
 # scripts/
 Folder that contains all the scripts to be executed
